@@ -1,0 +1,18 @@
+products:
+    -
+        code: VS5
+        packages:
+            - {packageSize: 3, packagePrize: 6.99}
+            - {packageSize: 5, packagePrize: 8.99}
+    -
+        code: MB11
+        packages:
+            - {packageSize: 2, packagePrize: 9.95}
+            - {packageSize: 5, packagePrize: 16.95}
+            - {packageSize: 8, packagePrize: 24.95}
+    -
+        code: MB11
+        packages:
+            - {packageSize: 3, packagePrize: 5.95}
+            - {packageSize: 5, packagePrize: 9.95}
+            - {packageSize: 9, packagePrize: 16.99}
